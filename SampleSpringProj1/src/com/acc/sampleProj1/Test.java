@@ -18,6 +18,7 @@ public class Test {
 		s.setName("Raj");
 		s.setRollNo(56);
 		s.displayResult();
+		s.displayResult();
 	}
 
 }
